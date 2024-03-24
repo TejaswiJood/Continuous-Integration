@@ -18,4 +18,4 @@ BookHub offers a user-friendly experience for both seasoned readers and newcomer
 To build the BookHub platform, we employ a comprehensive development process, leveraging modern technologies and best practices. Our development team collaborates closely to design and implement features that meet the needs and expectations of our users. Using tools such as Visual Studio, we ensure efficient development and seamless integration of components. Regular testing and iteration are key components of our development lifecycle, allowing us to deliver a reliable and user-friendly platform. With a focus on scalability and innovation, we strive to create a robust and dynamic environment for the reading community to thrive.
 
 ## Licence 
-This project is licensed under the [Apache License 2.0](https://github.com/TejaswiJood/github-final-project/blob/main/LICENSE)
+This project is licensed under the [Apache License 2.0](https://github.com/TejaswiJood/Continuous-Integration/blob/main/LICENSE)
